@@ -1,4 +1,6 @@
-# Fullstack Reddit Clone: Next.js 14, Next-Auth, TypeScript, PostgreSQL, TanStack Query, Prisma, Tailwind, Redis
+# Fullstack Reddit Clone: Next.js 14, Next-Auth, TypeScript, PostgreSQL, TanStack Query, Prisma, Tailwind, Redis, Uploadthing
+
+![Captura de pantalla 2024-03-16 223846](https://github.com/psuarezdev/reddit-clone/assets/104940521/a7dff599-84e8-4904-8358-37c83537a412)
 
 ## Prerequisites
 
