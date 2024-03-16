@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Comment" ALTER COLUMN "replyToId" DROP NOT NULL,
+ALTER COLUMN "commentId" DROP NOT NULL;
